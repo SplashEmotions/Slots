@@ -17,4 +17,4 @@ elif randomnums == variations[2]:
     print(f'{randomnums}\nТы победил с высоким каэфом')
 
 else:
-    print(f'{randomnums}\nТы проиграл')
+    print(f'{randomnums}\nТы проиграл!')
