@@ -18,3 +18,4 @@ elif randomnums == variations[2]:
 
 else:
     print(f'{randomnums}\nТы проиграл!')
+# ну тест типоо
